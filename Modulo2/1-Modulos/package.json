@@ -1,0 +1,21 @@
+{
+  "name": "ejemplo-modulos",
+  "version": "1.0.0",
+  "description": "este es un ejemplo basico del uso de modulos",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "math",
+    "modules",
+    "example",
+    "basic"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "basic-maths": "^2.1.1"
+  }
+}
